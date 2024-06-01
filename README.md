@@ -1,5 +1,5 @@
-# NLP Sentiment Twitter Analysis
-building LDA model to analysis sentiment twitter
+# NLP Sentiment Twitter Analysis Using LDA Model
+Building LDA model to analysis sentiment twitter. This code draws from several references and Kaggle's twitter sentiment dataset. FYI, this is the first NLP model I've tried to build :D observe imitate and modify hehe.
 
 ## Dependencies
 - pandas
